@@ -1,0 +1,53 @@
+C:\Users\vivek\AppData\Local\Programs\Python\Python39\python.exe "C:\Users\vivek\Pycharm Projects\FiniteHorizonQ\FHQL3.py" 
+H,S,A 10 5 5
+Seed =  0
+No of Iterations =  4842
+Normalised Error 0.04997672822436136
+Absolute Error  0.8287702788488566
+**********************************************************************
+
+
+Error= 0.8287702788488566
+H,S,A 10 5 5
+Seed =  1
+No of Iterations =  8205
+Normalised Error 0.04994053881090544
+Absolute Error  0.8281701453197748
+**********************************************************************
+
+
+Error= 0.8281701453197748
+H,S,A 10 5 5
+Seed =  2
+No of Iterations =  2756
+Normalised Error 0.04981914986190045
+Absolute Error  0.8261571373320492
+**********************************************************************
+
+
+Error= 0.8261571373320492
+H,S,A 10 5 5
+Seed =  3
+No of Iterations =  2879
+Normalised Error 0.049847287779575554
+Absolute Error  0.8266237519086004
+**********************************************************************
+
+
+Error= 0.8266237519086004
+H,S,A 10 5 5
+Seed =  4
+No of Iterations =  4881
+Normalised Error 0.049810540314825694
+Absolute Error  0.8260143641457399
+**********************************************************************
+
+
+Error= 0.8260143641457399
+[4842. 8205. 2756. 2879. 4881.]
+[0.82877028 0.82817015 0.82615714 0.82662375 0.82601436]
+No. of Iterations: Mean = 4712.6 , std = 1971.412346517085 
+Absolute Error: Mean = 0.827147135511004 , std = 0.0011151987374111909 
+4881
+
+Process finished with exit code 0
